@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PWCoreNoAds"
-  s.version      = "3.8.7"
+  s.version      = "3.8.8"
   s.summary      = "Phunware Core SDK for iOS. All Phunware SDKs have a dependency on PWCore."
   s.homepage     = "http://phunware.github.io/maas-core-ios-sdk/"
   s.author       = { 'Phunware, Inc.' => 'http://www.phunware.com' }
